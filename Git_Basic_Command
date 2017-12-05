@@ -4,6 +4,7 @@ http://wisedev.kr/29
 git init
 git status
 git add [filename/foldername]
+git add .  (--> add all files in current folder)
 git commit -m "Memo contents"
 
 git remote add origin https://github.com/arcturus9/repository_name.git
